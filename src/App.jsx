@@ -3,7 +3,7 @@ import HeaderComponent from './Components/HeaderComponent'
 
 const App = () => {
   return (
-    <HeaderComponent/>
+    <HeaderComponent />
   )
 }
 

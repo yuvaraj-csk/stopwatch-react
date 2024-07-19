@@ -4,6 +4,7 @@
 * {
   font-family: "Noto Sans";
   font-size: 62.5%;
+  justify-content: center;
 }
 .elapsed-time {
   font-size: 3.6rem;
